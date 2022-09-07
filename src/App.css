@@ -1,0 +1,43 @@
+.Adding {
+  background-color: rgb(206, 206, 235);
+  height: 980px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  justify-content: center;
+  align-items: center;
+   display:flex;
+  flex-direction: column;
+  
+ 
+}
+
+button {
+  border-radius: 10px;
+  border-style: none;
+  
+}
+
+input {
+  width:240px;
+  height: 27px;
+  border-radius: 12px;
+  border-style: none;
+}
+.Search {
+  margin-left: 650px;
+  margin-top: -290px;
+}
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
